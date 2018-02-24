@@ -8,11 +8,12 @@ Administrivia
 
 * Restore: __SAVE__, Recall
 
-* Fuck: __SAVE__, Lose+Edit
+* Panic: __SAVE__, Lose+Edit
 
 * Clear workscene: __DELETE__ + __SCENE__
 
 * Quick track jump in edit mode: __TRACK__ + press step encoder
+
                              or: __TRACK__ + rotate __BAR__
 
 * Save+append workscene: __SCENE__, __SAVE__, __Enter__
@@ -37,11 +38,11 @@ Administrivia
 Structure
 ---------
 
-* First step: Menu, First Step, Step key (shifts events)
+* First step: __MENU__, First Step, Step key (shifts events)
 
 * Last Step: __LAST__ (hold or dbl click) + step key
 
-* Jump to first step of Bar: Menu, Sync
+* Jump to first step of Bar: __MENU__, Sync
 
 * Adjust bar length: __LAST__ + turn __BAR__ encoder
 
@@ -52,38 +53,38 @@ Structure
     * Bar copy: P3: Hold __COPY__ + destination step/bar key
                 CK: __COPY__ + __BAR__
 
-    * Extend and copy: Hold Copy + step key after last bar
+    * Extend and copy: Hold __COPY__ + step key after last bar
 
     * Bar loop: __SHIFT__ + start step key + end step key
 
     * CK Delete Bar: __DELETE__, Start step key, End step key (or __BAR__ to clear all)
 
-    * CK Tap note: Record, hit Sculpt
-                   Velocity = Knob A pos
+    * CK Tap event: __REC__, hit __SCULPT__
+                    Velocity = Knob A position
 
 * Step edit
 
-    Copy: Copy, first key, last key 
+    Copy: __COPY__, first key, last key 
         __BAR__ encoder to switch bars
         Last key + first key = copy in reverse
 
-    Insert: Insert, first step
+    Insert: __INSERT__, first step
 
 * Pattern copy: __SHIFT__, Select pattern, save as new
 
 Fiddling
 --------
 
-* Sculpt: __SHIFT__ + Sculpt, hold Sculpt while playing
+* Sculpt: __SHIFT__ + __SCULPT__, hold __SCULPT__ while playing
     
     Switch Sculpt mode: __Enter__, turn, __Enter__
 
-* Audition: Encoder + Step
+* Audition: Press step encoder + step key
 
 * Select aux: Press + turn __ROW__
               Press + turn again for 2nd level
 
-* Record quantization: encoder 5 in Real-Time Record menu
+* Record quantization: Press encoder 5 in Real-Time Record menu
 
 Ganging
 -------
@@ -95,5 +96,4 @@ Note that gang uses step encoders.
 * Invert gang: __SHIFT__ + __GANG__
 
 * Gang alternating steps: __GANG__ + 2 encoders (adjacent = gang all)
-
 
