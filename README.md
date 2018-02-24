@@ -2,98 +2,98 @@
 Administrivia
 -------------
 
-* Save pattern: Save
+* Save pattern: __SAVE__
 
-* Undo changes: Save + Undo last edits (since entering pattern edit)
+* Undo changes: __SAVE__, "Undo last edits" (since entering pattern edit)
 
-* Restore: Save + Recall
+* Restore: __SAVE__, Recall
 
-* Fuck: Save + Lose+Edit
+* Fuck: __SAVE__, Lose+Edit
 
-* Clear workscene: Delete + Scene
+* Clear workscene: __DELETE__ + __SCENE__
 
-* Quick track jump in edit mode: Hold TRACK + encoder
-                             or: Hold TRACK + rotate BAR
+* Quick track jump in edit mode: __TRACK__ + press step encoder
+                             or: __TRACK__ + rotate __BAR__
 
-* Save+append workscene: Scene, Save, Enter
+* Save+append workscene: __SCENE__, __SAVE__, __Enter__
 
-* Track value controls: Track + Track + Insert
-                        Encoder 6
-                        Press Encoder 7 for next dial
-                        Shift + Row to go to new row
+* Track value controls: __TRACK__, __TRACK__, __INSERT__
+                        Press step encoder 6
+                        Press step encoder 7-12 for next values
+                        __SHIFT__ + turn __ROW__ to go to new row
 
-* Assign A/B: Shift + Control Encoder, turn A/B
+* Assign A/B knobs to track value: __SHIFT__ + TV step encoder, turn A/B
 
-* Revert MIDI Track value: Select control, Delete
+* Revert MIDI Track value: Push TV step encoder, __DELETE__
 
-* Delete MIDI Track value: Select control, Delete, Delete
+* Delete MIDI Track value: Push TV step encoder, __DELETE__, __DELETE__
 
-* Track Mixer: Track, Shift + Track
+* Track Mixer: Track, __SHIFT__ + __TRACK__
 
-* Step record: Shift + Record
-               Tie + Rest to dup, pause
+* Step record: __SHIFT__ + Record
+               __TIE__ + Rest to dup, pause
 
 
 Structure
 ---------
 
-* First step: Menu + First Step + Step key (shifts events)
+* First step: Menu, First Step, Step key (shifts events)
 
-* Last Step: Last (hold or dbl click) + step key
+* Last Step: __LAST__ (hold or dbl click) + step key
 
-* Jump to first step of Bar: Menu + Sync
+* Jump to first step of Bar: Menu, Sync
 
-* Adjust bar length: Last + turn Bar encoder
+* Adjust bar length: __LAST__ + turn __BAR__ encoder
 
-* Bar Follow: Bar hold+rotate
+* Bar Follow: __BAR__ hold+rotate
 
-* Bar edit: Press Bar
+* Bar edit: Press __BAR__
 
-    * Bar copy: Hold Copy + destination step/bar key
-                CK: Copy + Bar
+    * Bar copy: P3: Hold __COPY__ + destination step/bar key
+                CK: __COPY__ + __BAR__
 
     * Extend and copy: Hold Copy + step key after last bar
 
-    * Bar loop: Shift + start step key + end step key
+    * Bar loop: __SHIFT__ + start step key + end step key
 
-    * CK Delete Bar: Delete, Start step key, End step key (or Bar to clear all)
+    * CK Delete Bar: __DELETE__, Start step key, End step key (or __BAR__ to clear all)
 
     * CK Tap note: Record, hit Sculpt
                    Velocity = Knob A pos
 
 * Step edit
 
-    Copy: Copy + first key + last key 
-        Bar encoder to switch bars
+    Copy: Copy, first key, last key 
+        __BAR__ encoder to switch bars
         Last key + first key = copy in reverse
 
-    Insert: Insert + first step
+    Insert: Insert, first step
 
-* Pattern copy: Shift + Select pattern, save as new
+* Pattern copy: __SHIFT__, Select pattern, save as new
 
 Fiddling
 --------
 
-* Sculpt: Shift + Sculpt, hold Sculpt while playing
+* Sculpt: __SHIFT__ + Sculpt, hold Sculpt while playing
     
-    Switch Sculpt mode: Enter, turn, Enter
+    Switch Sculpt mode: __Enter__, turn, __Enter__
 
 * Audition: Encoder + Step
 
-* Select aux: Press + hold Row
-              Press + hold again for 2nd level
+* Select aux: Press + turn __ROW__
+              Press + turn again for 2nd level
 
 * Record quantization: encoder 5 in Real-Time Record menu
 
 Ganging
 -------
 
-* Delete gang: Delete + Gang
+Note that gang uses step encoders.
 
-* Invert gang: Shift + Gang
+* __DELETE__ gang: __DELETE__ + __GANG__
 
-* Gang alternating steps: Gang + 2 encoders (adjacent = gang all)
+* Invert gang: __SHIFT__ + __GANG__
 
-* Gang uses step encoders
+* Gang alternating steps: __GANG__ + 2 encoders (adjacent = gang all)
 
 
