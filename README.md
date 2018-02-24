@@ -13,7 +13,6 @@ Administrivia
 * Clear workscene: __DELETE__ + __SCENE__
 
 * Quick track jump in edit mode: __TRACK__ + press step encoder
-
                              or: __TRACK__ + rotate __BAR__
 
 * Save+append workscene: __SCENE__, __SAVE__, __Enter__
