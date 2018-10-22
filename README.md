@@ -71,6 +71,8 @@ Structure
 
 * Pattern copy: __SHIFT__, Select pattern, save as new
 
+* Track swap: __COPY__ + encoder of track source
+
 Fiddling
 --------
 
@@ -84,6 +86,10 @@ Fiddling
               Press + turn again for 2nd level
 
 * Record quantization: Press encoder 5 in Real-Time Record menu
+
+* CK pattern loop: __FILL__ + encoder = set loop start
+                   __LAST__ + encoder = set loop end
+                   __FILL__ + __BAR__ = loop current bar
 
 Ganging
 -------
