@@ -24,6 +24,10 @@ Administrivia
 
 * Assign A/B knobs to track value: __SHIFT__ + TV step encoder, turn A/B
 
+* Unassign A/B knobs track value: __SHIFT__ + turn A/B
+
+* Re-send current pgm/CC value: Double press TV step encoder
+
 * Revert MIDI Track value: Push TV step encoder, __DELETE__
 
 * Delete MIDI Track value: Push TV step encoder, __DELETE__, __DELETE__
@@ -90,6 +94,10 @@ Fiddling
 * CK pattern loop: __FILL__ + encoder = set loop start
                    __LAST__ + encoder = set loop end
                    __FILL__ + __BAR__ = loop current bar
+
+* CK pattern note mute: __DELETE__ while in record mode
+
+* Unmute track at next global bar loop: __SHIFT__ + muted track key
 
 Ganging
 -------
