@@ -67,7 +67,7 @@ Structure
 
 * Step edit
 
-    Copy: __COPY__, first key, last key 
+    Copy: __COPY__, first key, last key
         __BAR__ encoder to switch bars
         Last key + first key = copy in reverse
 
@@ -81,7 +81,7 @@ Fiddling
 --------
 
 * Sculpt: __SHIFT__ + __SCULPT__, hold __SCULPT__ while playing
-    
+
     Switch Sculpt mode: __Enter__, turn, __Enter__
 
 * Audition: Press step encoder + step key
@@ -91,22 +91,42 @@ Fiddling
 
 * Record quantization: Press encoder 5 in Real-Time Record menu
 
+* Unmute track at next global bar loop: __SHIFT__ + muted track key
+
 * CK pattern loop: __FILL__ + encoder = set loop start
                    __LAST__ + encoder = set loop end
                    __FILL__ + __BAR__ = loop current bar
+                   __FILL__ + __BAR__ + __BAR__ = clear loop
 
 * CK pattern note mute: __DELETE__ while in record mode
 
-* Unmute track at next global bar loop: __SHIFT__ + muted track key
+* CK change resolution: __VALUE__
+
+* CK change insert type to event list: __SHIFT__ + __INSERT__
+
+* CK CC view: __SHIFT__ + __ROW__
 
 Ganging
 -------
 
-Note that gang uses step encoders.
+Note that P3 gang uses step encoders. CK ganging can be done by bar or whole 
+pattern.
 
-* __DELETE__ gang: __DELETE__ + __GANG__
+* P3 gang step: __GANG__ + step encoder
+
+* P3 Gang alternating steps: __GANG__ + 2 encoders (adjacent = gang all)
+
+* CK Gang all notes on one step: __GANG__ + step encoder
+
+* CK Gang notes on selected row: __GANG__ + step key
+
+* CK Gang entire row: __GANG__ + row encoder
+
+* CK move gang L/R: __SHIFT__ + turn __BAR__
+
+* CK move gang U/D: __SHIFT__ + turn ganged step encoder
+
+* __DELETE__ ganged: __DELETE__ + __GANG__
 
 * Invert gang: __SHIFT__ + __GANG__
-
-* Gang alternating steps: __GANG__ + 2 encoders (adjacent = gang all)
 
